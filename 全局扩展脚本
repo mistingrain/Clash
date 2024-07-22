@@ -1,3 +1,7 @@
+//参考：https://clash-verge-rev.github.io/guide/script.html
+//https://wiki.metacubex.one/config/dns/
+//https://github.com/MetaCubeX/mihomo/blob/Meta/docs/config.yaml
+
 // 国内DNS服务器
 const domesticNameservers = [
   "https://dns.alidns.com/dns-query", // 阿里云公共DNS
